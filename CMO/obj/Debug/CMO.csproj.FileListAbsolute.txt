@@ -1,0 +1,17 @@
+D:\Маслюк\Дипломка\CMO\CMO\bin\Debug\CMO.exe.config
+D:\Маслюк\Дипломка\CMO\CMO\bin\Debug\CMO.exe
+D:\Маслюк\Дипломка\CMO\CMO\bin\Debug\CMO.pdb
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.csprojAssemblyReference.cache
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.Form1.resources
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.Properties.Resources.resources
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.csproj.GenerateResource.cache
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.csproj.CoreCompileInputs.cache
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.exe
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.pdb
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.Form2.resources
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.Menu.resources
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.Form3.resources
+D:\Маслюк\Дипломка\CMO\CMO\bin\Debug\CMO.exe.manifest
+D:\Маслюк\Дипломка\CMO\CMO\bin\Debug\CMO.application
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.exe.manifest
+D:\Маслюк\Дипломка\CMO\CMO\obj\Debug\CMO.application
